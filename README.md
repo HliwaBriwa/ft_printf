@@ -1,2 +1,4 @@
 # ft_printf
-Seconcd 42 Network Project.
+This is my ft_printf :
+
+Second 42 Network Project.
